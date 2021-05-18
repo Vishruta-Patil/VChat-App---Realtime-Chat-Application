@@ -1,6 +1,13 @@
 # VChat App
-VChat App is a Realtime Chat Application. It allows user to have a group chat. There is a feature of chat room where users can chat different topics in specific room.
-Implemented using NodeJS, Express, SocketIO.
+**VChat App is a Realtime Chat Application.** <br> <br>
+Features:
+- VChat allows user to have a group chat. 
+- There is a feature of chat room where users can chat different topics in the specific room.
+- Display the names of participant in the group chat
+- Display the group name of the group chat
+- Users are updated if someone has joined or left the group
+- Welcome message is displayed to the new user.
+- Timestamps on the messages.
 
 ## Built With
 - [Node](https://nodejs.org/en/)
